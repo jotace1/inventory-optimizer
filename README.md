@@ -20,6 +20,7 @@ The threshold calculation algorithm is implemented in the `calculateThresholds` 
    4. Average daily sales (user-provided)
 
 2. **Calculation Steps**:
+
    a. Calculate order frequency:
 
    1. Filter orders with quantity > 0
